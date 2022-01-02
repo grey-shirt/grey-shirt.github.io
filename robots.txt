@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://grey-shirt.github.io/PROJECT_NAME/sitemap.xml
