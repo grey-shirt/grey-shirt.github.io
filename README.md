@@ -13,3 +13,9 @@ bundle
 # to serve
 bundle exec jekyll s
 ```
+
+## Add a new post 
+
+```bash
+./initpost.sh -c "My amazing post"
+```
