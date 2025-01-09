@@ -1,4 +1,4 @@
-# Grey Shirt Bog
+# Grey Shirt Blog
 
 A collection of random thoughts to help future me.
 
